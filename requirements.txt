@@ -1,0 +1,10 @@
+streamlit
+pandas
+nltk
+scikit-learn
+transformers
+torch
+textblob
+matplotlib
+plotly
+wordcloud
